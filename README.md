@@ -6,7 +6,7 @@ With the onsite of COVID one year ago, we've seen a lot changes in the last year
 
 Analytical Approach
 Criteria for Choosing MTA Commuter Stations
-The publicly available MTA turnstile data from March 2017 was analyzed to determine the four stations that would garner the highest advertisement exposure to daily commuters. There were two criteria that were used to pinpoint these particular commuter stations:
+The publicly available MTA turnstile data from March 2020 was analyzed to determine the four stations that would garner the highest exposure to daily commuters. There were two criteria that were used to pinpoint these particular commuter stations:
 
 High exit rate during the morning commute hours.
 High entry rate during the afternoon and evening hours.
