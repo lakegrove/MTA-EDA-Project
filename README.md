@@ -12,5 +12,6 @@ We focus on the general trends of overall impact on ridership for MTA juxtaposed
 This data has implications for people to know how congested these means of travel are so those that are at risk or prefer another way of getting to work or changing how they work can be aware.  Additionally, the city has a vested interest with the massive shortfall of revenues in 2020 for MTA that employs nearly 75,000 people and netted New York nearly ~$17B in 2019.
 
 **Data sets**:
+
 MTA Turnstile data looking at overall traffic and changes by location through time
 New York City covid case data from NYC.Gov
