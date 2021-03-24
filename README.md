@@ -14,4 +14,5 @@ This data has implications for people to know how congested these means of trave
 **Data sets**:
 
 MTA Turnstile data looking at overall traffic and changes by location through time
+
 New York City covid case data from NYC.Gov
