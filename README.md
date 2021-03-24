@@ -2,6 +2,7 @@
 
 
 **Problem Statement**:
+
 How is MTA turnstile behavior changing from pre-pandemic, mid-pandemic and trending in early 2021 as the world heads to post pandemic? 
 
 With the onset of COVID one year ago, we've seen many changes in the last year as measures have been put in place to reduce the spread of the virus. Now with vaccines coming and the possibility of reopening cities across the country we are entering a new phase of “returning to normal”. The goal of this analysis is really to look at MTA ridership leading into  the pandemic, during the pandemic and now as we inch towards post-pandemic to see how close to “normal” things really are.  
