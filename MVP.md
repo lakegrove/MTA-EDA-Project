@@ -1,4 +1,4 @@
-## New York City MTA Analysis By Borough Pre and Post Padenmic
+## New York City MTA Analysis By Borough Pre and Post Pandenmic
 
 ![](mvp_figure.png)
 
