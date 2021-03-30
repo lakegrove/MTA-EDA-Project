@@ -10,14 +10,16 @@ This result shows that the recovery has been minimal if at all since the pandemi
 
 ![Manhattan_Box_Plot](https://user-images.githubusercontent.com/19785958/113049576-6b234800-9169-11eb-9b75-02338d0de19b.png)
 
-As we know, Manhattann then Brooklyn, Queens and the Brox are the busiest by order.  
+Manhattann then Brooklyn, Queens and the Bronx are the busiest by order with no real change across the year.
+
+In the beginning of late May-Early June we see the social protesting spikes as well as some return to work happening in Manhattan
 
 We also see the spikes as weekdays, continue to be the busiest times for commuting in the city with people still going to work
 
-This data indicates we're still at roughly about 30-40% pre corona capacity.
+This data indicates we're still at roughly about 30-40% pre corona capacity of 5 to 6 million people/per day.
 
 ![MTA_Total_Borough](https://user-images.githubusercontent.com/19785958/113050074-10d6b700-916a-11eb-99f2-dae158da730a.png)
 
-My next steps are really to look at how things are looking at the station level as well as plot out each Borough cumulatively.
+My next steps are to look at how things are looking at the station level over the year as well as plot out each Borough similar to Manhattan above.
 
-I will then overlay covid data on Borough totals to get a sense of the interplay between the two
+I will then overlay covid data on Borough totals to get a sense of the interplay between the two.
