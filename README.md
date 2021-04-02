@@ -19,4 +19,4 @@ This data has implications for public health and allowing people to know how con
 
 MTA Turnstile data looking at overall traffic and changes by location through time
 
-New York City covid case data from NYC.Gov
+New York City covid case data from NY Health Department
