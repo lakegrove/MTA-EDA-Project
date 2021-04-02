@@ -24,4 +24,4 @@ Exploratory data analysis was used to remove duplicate values (audit values), bl
 - Matplotlib and Seaborn for plotting
 
 ## Communication
-The PDF of the slides with vis, [Tanzania Waterpoints](https://public.tableau.com/profile/arjun#!/vizhome/TanzaniaWater/TanzaniaWaterpoints) 
+The PDF of the slides contains visuals and more details of findings from this project [Covid Turnstile Presentation](https://github.com/lakegrove/MTA-EDA-Project/blob/main/The_Pandemic_Commute.pdf) 
